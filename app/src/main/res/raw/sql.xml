@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<statement> VALUES(1,'JOSE','MARTINS')</statement>
+<statement> VALUES(2,'RUI','VALENTE')</statement>
+<statement> VALUES(3,'MARIA','MANUEL')</statement>
+<statement> VALUES(4,'MATILDE','SOUSA')</statement>
+<statement> VALUES(5,'RITA','TEIXEIRA')</statement>
+<statement> VALUES(6,'RITA','PEREIRA')</statement>
+<statement> VALUES(7,'SORAIA','CHAVES')</statement>
+</sql>
+    
